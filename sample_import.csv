@@ -1,0 +1,6 @@
+name,category,distance_km,est_travel_mins,status,notes
+Lonavala Ghat Cafe,Food,65.5,70,Planned,Valid imported stop
+Pune Expressway Toll,Toll,42.0,35,Planned,Valid imported toll
+X,Food,20,20,Planned,Invalid: name too short
+Bad Category Stop,Spaceship,50,45,Planned,Invalid category
+Negative Distance,Fuel,-15,30,Planned,Invalid range
